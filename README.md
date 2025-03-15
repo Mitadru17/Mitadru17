@@ -5,12 +5,6 @@
 ---
 
 ### 🚀 About Me
-I am a passionate **Full-Stack Developer** with expertise in:
-
-✔️ **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
-✔️ **Android Development** (Java, XML, Firebase)  
-✔️ **Python for AI/ML** (TensorFlow, Pandas, NumPy)  
-
 🌱 I’m currently learning **RAG**  
 👨‍💻 All of my projects are available at [**LinkedIn**](https://www.linkedin.com/in/mitadruroy/)  
 💬 Ask me about **MERN Stack, HTML, CSS, and JavaScript**  
