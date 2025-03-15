@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **RAG**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mitadruroy/](https://www.linkedin.com/in/mitadruroy/)
+- 👨‍💻 All of my projects are available at [linkedin](https://www.linkedin.com/in/mitadruroy/)
 
 - 💬 Ask me about **MERN stack,HTML,CSS and JavaScript**
 
 - 📫 How to reach me **mitadruroy006@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jz0DBBvg8fRE0-t2b3zfW7pz4GSSfkD8/view?usp=sharing](https://drive.google.com/file/d/1jz0DBBvg8fRE0-t2b3zfW7pz4GSSfkD8/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1jz0DBBvg8fRE0-t2b3zfW7pz4GSSfkD8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
