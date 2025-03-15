@@ -2,7 +2,6 @@
 
 ### 💻 Full-Stack Developer | MERN Stack | Data Science Enthusiast
 
----
 
 ### 🚀 About Me
 🌱 I’m currently learning **RAG**  
