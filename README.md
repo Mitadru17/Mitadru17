@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Mitadru Roy!
-🌱 I’m currently learning RAG<br>👨‍💻 All of my projects are available at [linkedin](https://www.linkedin.com/in/mitadruroy/)<br>💬 Ask me about MERN stack,HTML,CSS and JavaScript<br>📫 How to reach me mitadruroy006@gmail.com<br>📄 Know about my experiences [resume](https://drive.google.com/file/d/1jz0DBBvg8fRE0-t2b3zfW7pz4GSSfkD8/view?usp=sharing)
 
 <br>
 # 💻 Full-Stack Developer | MERN Stack | Android | Data Science Enthusiast
 <br>
+
+🌱 I’m currently learning RAG<br>👨‍💻 All of my projects are available at [linkedin](https://www.linkedin.com/in/mitadruroy/)<br>💬 Ask me about MERN stack,HTML,CSS and JavaScript<br>📫 How to reach me mitadruroy006@gmail.com<br>📄 Know about my experiences [resume](https://drive.google.com/file/d/1jz0DBBvg8fRE0-t2b3zfW7pz4GSSfkD8/view?usp=sharing)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mitadruroy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mitadru_roy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mitadruroy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mitadruroy006@gmail.com) 
