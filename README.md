@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Mitadru Roy!
+# 👋 Hi, I'm Mitadru Roy!
 
 ### 💻 Full-Stack Developer | MERN Stack | Data Science Enthusiast
 
