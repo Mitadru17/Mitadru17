@@ -1,14 +1,21 @@
-# 👋 Hi, I'm Mitadru Roy!
+## 👋 Hi, I'm Mitadru Roy!
 
-# 💻 Full-Stack Developer | MERN Stack | Data Science Enthusiast
+### 💻 Full-Stack Developer | MERN Stack | Data Science Enthusiast
 
-## 🚀 About Me  
+---
 
-🌱 I’m currently learning RAG  
-👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/mitadruroy/)  
-💬 Ask me about MERN Stack, HTML, CSS, and JavaScript  
-📫 How to reach me **[mitadruroy006@gmail.com](mailto:mitadruroy006@gmail.com)**  
-📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1jz0DBBvg8fRE0-t2b3zfW7pz4GSSfkD8/view?usp=sharing)  
+### 🚀 About Me
+I am a passionate **Full-Stack Developer** with expertise in:
+
+✔️ **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
+✔️ **Android Development** (Java, XML, Firebase)  
+✔️ **Python for AI/ML** (TensorFlow, Pandas, NumPy)  
+
+🌱 I’m currently learning **RAG**  
+👨‍💻 All of my projects are available at [**LinkedIn**](https://www.linkedin.com/in/mitadruroy/)  
+💬 Ask me about **MERN Stack, HTML, CSS, and JavaScript**  
+📫 How to reach me: [**mitadruroy006@gmail.com**](mailto:mitadruroy006@gmail.com)  
+📄 Know about my experiences: [**Resume**](https://drive.google.com/file/d/1jz0DBBvg8fRE0-t2b3zfW7pz4GSSfkD8/view?usp=sharing)  
 
 
 
