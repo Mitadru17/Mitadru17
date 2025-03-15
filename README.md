@@ -21,7 +21,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mitadru17&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitadru17&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br>
-[![Profile Views](https://komarev.com/ghpvc/?username=Mitadru17&label=Profile%20Views&color=6f42c1&style=for-the-badge)]
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
