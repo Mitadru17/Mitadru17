@@ -2,8 +2,13 @@
 
 # 💻 **Full-Stack Developer** | MERN Stack | Data Science Enthusiast
 
-# 🚀 About Me
-🌱 I’m currently learning RAG<br>👨‍💻 All of my projects are available at [linkedin](https://www.linkedin.com/in/mitadruroy/)<br>💬 Ask me about MERN stack,HTML,CSS and JavaScript<br>📫 How to reach me mitadruroy006@gmail.com<br>📄 Know about my experiences [resume](https://drive.google.com/file/d/1jz0DBBvg8fRE0-t2b3zfW7pz4GSSfkD8/view?usp=sharing)
+## 🚀 About Me
+
+🌱 I’m currently learning RAG
+👨‍💻 All of my projects are available at [linkedin](https://www.linkedin.com/in/mitadruroy/)
+💬 Ask me about MERN stack,HTML,CSS and JavaScript
+📫 How to reach me mitadruroy006@gmail.com
+📄 Know about my experiences [resume](https://drive.google.com/file/d/1jz0DBBvg8fRE0-t2b3zfW7pz4GSSfkD8/view?usp=sharing)
 
 
 ## 🌐 Socials:
