@@ -8,7 +8,7 @@
 👨‍💻 All of my projects are available at [**LinkedIn**](https://www.linkedin.com/in/mitadruroy/)  
 💬 Ask me about **MERN Stack, HTML, CSS, and JavaScript**  
 📫 How to reach me: [**mitadruroy006@gmail.com**](mailto:mitadruroy006@gmail.com)  
-📄 Know about my experiences: [**Resume**](https://drive.google.com/file/d/1jz0DBBvg8fRE0-t2b3zfW7pz4GSSfkD8/view?usp=sharing)  
+📄 Know about my experiences: [**Resume**](https://drive.google.com/file/d/1RFI2K-DZopq-NcRFEBQ2exrKbY_hx7SX/view?usp=sharing)  
 
 
 
